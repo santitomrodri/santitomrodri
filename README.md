@@ -7,5 +7,5 @@ I work with climate data, dengue surveillance and entomological data, and I use 
 
 I'm using this space to organize and share some of my scripts. I'm still learning, so feedback is welcome.
 
-💬 Get in touch
+##💬 Get in touch
 Happy to connect if you work on climate, health and vector-borne diseases! 🧉
